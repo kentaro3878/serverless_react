@@ -1,5 +1,5 @@
 # serverless-react
-安く、早く、楽にサービスをデプロイ＆運用したい
+serverless+react勉強用
 
 - react
 - serverless（API Gateway + Lambda + DynamoDB + S3）
